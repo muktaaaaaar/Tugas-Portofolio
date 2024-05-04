@@ -1,0 +1,19 @@
+.menu{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: blue;
+}
+*{
+    font-weight: bolder;
+}
+
